@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tsubakiia
-- 👀 I’m interested in League of legend
+- 👀 I’m interested in learning java script
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on music
 - 📫 How to reach me Tsubaki#3759 on discord
